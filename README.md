@@ -6,3 +6,4 @@ Some fixes for new vk.com style
 and lists (e.g. friends)
 + Centering for chat block in classic-style dialogs
 + Right column stays at top of the page (disabled `position: fixed` when scrolling)
++ Hide "footer" under left menu and feed_filters ("recommended" communities and "interesting at top" switch)
