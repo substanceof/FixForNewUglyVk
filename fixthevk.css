@@ -1,0 +1,52 @@
+@-moz-document domain("vk.com") {
+
+  #page_header, #page_layout {
+    width: 95% !important;
+  }
+
+  #page_body {
+    width: calc(100% - 200px) !important;
+    float: left;
+    margin-left: 40px;
+  }
+
+  #side_bar_inner {
+    position: relative !important;
+    margin-top: 42px !important;
+  }
+
+  #narrow_column {
+    position: relative !important;
+  }
+
+  #narrow_column_wrap {
+    right: 0;
+  }
+
+  .top_home_link {
+    width: 63px !important;
+  }
+
+  .wide_column_wrap {
+    max-width: 800px;
+    margin-left: calc(25% - 155px);
+  }
+
+  /* chat */
+
+  .im-page_classic {
+    margin-left: calc(50% - 275px);
+  }
+
+  .im-page-wrapper {
+    margin-left: 160px;
+    margin-right: 8%;
+  }
+
+  .ui_rmenu {
+    right: 0;
+    margin-right: 35px;
+  }
+
+}
+
