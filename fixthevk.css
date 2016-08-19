@@ -47,6 +47,15 @@
     right: 0;
     margin-right: 35px;
   }
+  
+  /* hide blocks */
+  
+  #feed_filters {
+    display: none;
+  }
+  
+  .left_menu_nav_wrap {
+    display: none;
+  }
 
 }
-
