@@ -57,5 +57,9 @@
   .left_menu_nav_wrap {
     display: none;
   }
+  
+  #groups_filters_wrap {
+    display: none;
+  }
 
 }
