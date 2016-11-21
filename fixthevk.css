@@ -9,6 +9,11 @@
     float: left;
     margin-left: 40px;
   }
+  
+  #public > .page_block {
+    width: 795px;
+    margin-left: calc(25% - 155px);
+  }
 
   #side_bar_inner {
     position: relative !important;
@@ -43,11 +48,26 @@
     margin-right: 8%;
   }
 
-  .ui_rmenu {
+  /*.ui_rmenu {
     right: 0;
     margin-right: 35px;
+  }*/
+  
+  /* comment reply */
+  /*
+  .reply_field, .submit_post_field {
+    min-height: 62px !important;
+    max-height: none !important;
+    padding: 20px 20px 16px 32px !important;
   }
   
+  .post_field_user_image {
+    width: 40px !important;
+    height: 40px !important;
+    top: 10px !important;
+    left: 20px !important;;
+  }
+  */
   /* hide blocks */
   
   #feed_filters {
